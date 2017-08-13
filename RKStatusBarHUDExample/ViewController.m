@@ -4,7 +4,7 @@
 //
 //  Created by rock on 17/8/10.
 //  Copyright © 2017年 rock. All rights reserved.
-// 框架使用示例
+// 框架使用示例程序
 
 #import "ViewController.h"
 #import "RKStatusBarHUD.h"
